@@ -1,0 +1,14 @@
+name: CoolCommands
+version: '${project.version}'
+main: city.spworlds.coolcommands.CoolCommands
+api-version: 1.18
+prefix: VEEEEERY COOOL COMMANDS
+authors: [ _Teleport ]
+commands:
+  donate: {}
+  porn: {}
+  sex: {}
+  pvp: {}
+  home: {}
+  sp: {}
+  tlauncher: {}
